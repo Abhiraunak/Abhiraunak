@@ -29,7 +29,8 @@ I am a passionate B.Tech CS student at AKS UNIVERSITY, driven by a curiosity for
  
 ## 📬 Get in Touch
 
-- Connect with me on [Linkdin](https://www.linkedin.com/in/abhishek1701/)[Twitter](@abhishekkp1721)
+- Connect with me on [Linkdin](https://www.linkedin.com/in/abhishek1701/)
+                     [Twitter](https://twitter.com/abhishekkp1721)
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
 
