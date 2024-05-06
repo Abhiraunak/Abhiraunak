@@ -16,7 +16,7 @@ I am a passionate B.Tech CS student at AKS UNIVERSITY, driven by a curiosity for
 -->
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=react,redux,,atom,html,css,java,js,,express,mongodb,nodejs,postgres,prisma,git,docker,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,redux,atom,html,css,java,js,express,mongodb,nodejs,postgres,prisma,git,docker,postman)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
