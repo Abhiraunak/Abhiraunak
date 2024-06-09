@@ -19,6 +19,8 @@ I am a passionate B.Tech CS student at AKS UNIVERSITY, driven by a curiosity for
 [![My Skills](https://skillicons.dev/icons?i=react,redux,atom,html,css,java,js,express,mongodb,nodejs,postgres,prisma,git,docker,postman)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
+- 🚀 Learning dotNet Framework
+    - Exploring the DotNet core and MVC
 
 - 🚀 Learning MERN Stack Web Development
   - Exploring the ins and outs of React and Redux for dynamic front-end experiences.
